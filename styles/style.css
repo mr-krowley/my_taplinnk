@@ -22,3 +22,56 @@ header{
   border: 12px solid red;
   box-shadow: rgb(28 32 93 / 24%) 0 2px 8px 0;
 }
+.Title{
+  display: inline-block;
+  font-size: 4em;
+  font-weight: bold;
+  border-radius: 100%;
+  background-color: rgb(251, 244, 244);
+  color: blue;
+  padding: 0.3em 0.6em;
+  border: 3px solid slategrey ;
+ 
+}
+
+strong{
+  margin: 1em;
+  font-size: 2em;
+}
+
+ul{
+  list-style: none;
+  padding: 2em;
+  
+}
+li{
+  text-align: center;
+  background-color: rgb(249, 244, 244);
+  backdrop-filter: blur(10px) saturate(80%) contrast(190%);
+  border-radius: 10em;
+  border: 2px solid red;
+  padding: 0em;
+  margin: 1.4em 0;
+  width: 200px;
+}
+main{
+  display: flex;
+  justify-content: center;
+}
+.img2{
+  width: 25px;
+  height: 25px;
+}
+.img3{
+  width: 25px;
+  height: 25px;
+}
+.img4{
+  width: 25px;
+  height: 25px;
+}
+.img5{
+  width: 25px;
+  height: 25px;
+}
+
